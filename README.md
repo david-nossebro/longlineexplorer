@@ -4,13 +4,13 @@ An extremely useful tool if you want to list the 10 bus lines in the Stockholm a
 
 It is a web application and a REST API built with React and Spring Boot. To be able to run the application you will need to have java and node.js installed.
 
-To start the API, go into the `BE` folder and run the following command:
+To start the API, go into the `BE/demo/` folder and run the following command:
 
 ```
 ./mvnw spring-boot:run 
 ```
 
-To start the frontend, go into the FE folder an run the following commands:
+To start the frontend, go into the `FE/demo` folder an run the following commands:
 
 ```
 npm ci
